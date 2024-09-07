@@ -1,0 +1,5 @@
+OPERATORS : 
+
+1. Arithmetic operators - + , - , * , / , %
+2. Comparison operators -  > , < , >= , <= , ==
+3. Logical operators - and , or , not
