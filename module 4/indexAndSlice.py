@@ -5,7 +5,7 @@ new_name = name[7] # SQUARE BRACKET
 
 print(new_name)
 
-# SLICING
+# SLICING AND STEPPING
 
 new_name = name[1:6] #  INDEX TO  INDEX
 new_name = name[:6] # START TO INDEX
