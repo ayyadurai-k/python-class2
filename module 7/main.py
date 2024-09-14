@@ -1,4 +1,4 @@
-# TUPLES 
+# TUPLES  () - PARENTHESES
 
 numbers = (10,4,2,2,2,1)
 
