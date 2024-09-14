@@ -1,0 +1,8 @@
+CONDITION 
+
+(ALL ARE BASED ON COMPARISON OPERATORS AND LOGICAL)
+
+1. If 
+2. Else 
+3. Elif (Else If)
+4. Nested If
