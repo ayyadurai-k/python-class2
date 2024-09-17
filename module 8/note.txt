@@ -6,3 +6,7 @@ CONDITION
 2. Else 
 3. Elif (Else If)
 4. Nested If
+
+input = 6
+
+10 
