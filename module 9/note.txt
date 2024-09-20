@@ -1,0 +1,4 @@
+ FOR LOOP : 
+
+ 1. Range Loop 
+ 2. In Loop
