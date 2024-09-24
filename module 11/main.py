@@ -3,7 +3,7 @@
 x = 10 # GLOBAL VARIABLE
 
 def add_number(a,b): # LOCAL VARIABLE
-    print("Addition : ",a+b)
+    return a+b
 
 def multiply_number(a,b):  # LOCAL VARIABLE
     print("Multiplication : ",a*b)
