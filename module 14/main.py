@@ -12,10 +12,17 @@ class Student:
     def calculate_total(self):
         total_marks = self.m1 + self.m2 + self.m3 
         return total_marks
+    
+    def display_name(self):
+        print("Name :  ",self.name)
 
 
 student1 = Student("Jeevitha",10,29,25,28)
 student2 = Student("Abinaya",11,25,29,30)
+
+
+student1.display_name()
+student2.display_name()
 
 
 student1_mark = student1.calculate_total()
