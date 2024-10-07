@@ -1,0 +1,8 @@
+
+Inheritance Types :
+
+1. Single  - Completed
+2. Multiple -  Completed
+3. Hierarchy  - Completed
+4. Multi level - Completed 
+5. Hybrid 
