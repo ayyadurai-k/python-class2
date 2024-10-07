@@ -26,7 +26,3 @@ s = Student()
 s.get_person_input()
 s.get_student_input()
 s.display_output()
-
-
-
-
