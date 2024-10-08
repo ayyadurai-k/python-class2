@@ -1,8 +1,16 @@
 
 Inheritance Types :
 
-1. Single  - Completed
-2. Multiple -  Completed
-3. Hierarchy  - Completed
-4. Multi level - Completed 
-5. Hybrid 
+1. Single  - One Parent class and one child class
+2. Multiple  - More than one parent class and one child class.  
+3. Hierarchy  - One parent class and more than one child class.
+4. Multi level - More than one parent and child class.
+5. Hybrid - More than one types of inheritances
+
+
+
+Call :
+
+Parent - Child
+Base - Derived
+Super - Sub
