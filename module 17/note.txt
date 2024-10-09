@@ -5,6 +5,10 @@ OOPS -> Object Oriented Programming System
 Class and Objects
 
 1. Inheritance
-2. Polymorphism - Method Overriding , Method Overloading (Not supported in python)
+2. Polymorphism - 
+
+Run Time Polymorphism  - Method Overriding
+Compile Time Polymorphism - Method Overloading (Not supported in python)
+
 3. Abstraction  - Need to implement
 4. Encapsulation - Combine data and function into single unit
