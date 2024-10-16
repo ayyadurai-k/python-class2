@@ -1,0 +1,16 @@
+
+
+Exception(Error) Handling 
+
+1. Compile Time Error (Syntax Error) 
+2. Run Time Error  (Logic Error)
+
+IndexError
+
+
+keywords : 
+
+try - except
+
+
+ number = 10,20,30,40 - 6
